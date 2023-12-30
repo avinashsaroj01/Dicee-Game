@@ -3,17 +3,31 @@ A simple web-based dice game created using HTML, CSS, and JavaScript. The game i
 
  <h2> Table of Contents</h2>
 <ul>Demo
-Features
+<li>
+ Features
+ </li>
+<li>
 Getting Started
+ </li>
 How to Play
-Contributing</ul>
-
+<li>
+ </li>
+<li>
+Contributing
+ </li>
+ </ul>
 
 <h2> Features </h2>
-<ul> Two-player dice game.
-Dice rotation animation on page refresh.
-Determination of the winner based on the number of dots.
+<ul> 
+ <li> Two-player dice game. </li> 
+  <li>  Dice rotation animation on page refresh.</li>
+  <li>
+  Determination of the winner based on the number of dots.
+  </li>
+  <li>
 Draw scenario handling. </ul> 
+  </li>
+
 
  <h2>Getting Started</h2> 
 These instructions will help you set up the project on your local machine for development and testing purposes.
@@ -32,9 +46,20 @@ Open the index.html file in your preferred web browser.
 Refresh the page to see the dice rotate and determine the winner!
 
  <h2> How to Play</h2> 
-< ul>Open the game in your web browser.
+<ul> 
+ <li>
+Open the game in your web browser.
+ </li>
+ <li>
 Refresh the page to rotate the dice randomly.
+ </li>
+ <li>
 The player with the higher number of dots wins.
-If the dots on both dice are the same, the game is a draw</ul> .
+ </li>
+ <li>
+If the dots on both dice are the same, the game is a draw
+ </li>
+ 
+</ul> .
 <h2>Contributing</h2> 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions, issues, and feature requests are welcome!
