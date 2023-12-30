@@ -2,15 +2,18 @@
 A simple web-based dice game created using HTML, CSS, and JavaScript. The game involves two players, each represented by a dice. Upon refreshing the page, the dice rotate randomly, and the player with the higher number of dots wins. If the dots on both dice are the same, the game is declared a draw.
 
  <h2> Table of Contents</h2>
-<ul>Demo
+<ul>
+<li>
+Demo
+</li>
 <li>
  Features
  </li>
 <li>
 Getting Started
  </li>
-How to Play
 <li>
+How to Play
  </li>
 <li>
 Contributing
