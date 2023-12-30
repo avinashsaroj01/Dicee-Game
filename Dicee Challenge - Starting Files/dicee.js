@@ -1,6 +1,6 @@
 var randomNum1 = Math.floor(Math.random() * 6) + 1;
 var randomImage = "dice" + randomNum1 + ".png";
-var randomImageSource = "/FSD-1/Dicee Challenge - Starting Files copy/Dicee Challenge - Starting Files/images/"
+var randomImageSource = "/Dicee Challenge - Starting Files/images/"
   + randomImage;
 
 var img1 = document.querySelectorAll("img")[0];
@@ -9,7 +9,7 @@ img1.setAttribute("src", randomImageSource);
 
 var randomNum2 = Math.floor(Math.random() * 6) + 1;
 var randomImage2 = "dice" + randomNum2 + ".png";
-var randomImageSource2 = "/FSD-1/Dicee Challenge - Starting Files copy/Dicee Challenge - Starting Files/images/" + randomImage2;
+var randomImageSource2 = "/Dicee Challenge - Starting Files/images/" + randomImage2;
 
 var img2 = document.querySelectorAll("img")[1];
 img2.setAttribute("src", randomImageSource2);
